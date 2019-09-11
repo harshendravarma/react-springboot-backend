@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Aug 22 17:16:21 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016c-b926-28c3-0000080975f0 
+on database directory memory:/home/zadmin/Documents/workspace-sts-3.9.9.RELEASE/crud/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6587524c 
+Loaded from file:/home/zadmin/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+user.dir=/home/zadmin/Documents/workspace-sts-3.9.9.RELEASE/crud
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-55-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
